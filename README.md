@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Employee Management app with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+
+### Adding Departments, Editing Departments and Deleting Departments
+
+### Adding Employees, Editing Employees and Deleting Employees. Also can filter employees on department basis.
+
+### Data persistance using local storage.
+
+## Installation
+
+### No external libraries used, just run `npm install` to install node modules.
+
+### This project was created using Create React App. You may also need to install that.
 
 ## Available Scripts
 
@@ -8,11 +20,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
