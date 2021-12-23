@@ -1,0 +1,20 @@
+.table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.tableHeader{
+    padding: 1rem;
+    background-color: cadetblue;
+    border: 1px solid black;
+}
+
+.tableData{
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+.optionsBtn{
+    margin: 0 1rem;
+}
